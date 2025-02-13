@@ -1,8 +1,13 @@
-name: Pull private repp
-run-name: ${{ github.actor }} is pulling repos 🚀
-on: [push]
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
 jobs:
-  pull-repo:
+  build:
     runs-on: ubuntu-latest
 
     steps:
@@ -10,6 +15,7 @@ jobs:
       with:
         token: ${{ secrets.GH_PAT }}
         submodules: recursive
-      - run: echo "🎉 The job was automatically triggered by a ${{ github.event_name }} event."
-      - run: echo "🐧 This job is now running on a ${{ runner.os }} server hosted by GitHub!"
-      - run: echo "🔎 The name of your branch is ${{ github.ref }} and your repository is ${{ github.repository }}."
+    
+    # Other steps in your workflow would follow here
+    - name: Echo
+      run: echo "Pulled the repos"

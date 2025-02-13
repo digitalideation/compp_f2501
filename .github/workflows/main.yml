@@ -1,0 +1,21 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GH_PAT }}
+        submodules: recursive
+    
+    # Other steps in your workflow would follow here
+    - name: Run a script
+      run: echo "Your other steps go here"

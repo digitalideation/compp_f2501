@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: COMPP25
+show_downloads: "true"
+plugins:
+  - jemoji

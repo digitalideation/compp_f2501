@@ -1,0 +1,6 @@
+[submodule "content/block-ai-intro-core"]
+	path = content/block-ai-intro-core
+	url = git@github.com:gu-ma/block-ai-intro-core.git
+[submodule "content/blocks/block-ai-intro-core"]
+	path = content/blocks/block-ai-intro-core
+	url = git@github.com:gu-ma/block-ai-intro-core.git

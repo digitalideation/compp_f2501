@@ -36,7 +36,7 @@ This week will be mostly about planning and inspirations. We will go together th
     - Critique and Feedback: interactive
 - Me
 - Intro to ML / AI
-  - [Intro](./blocks/block-ai-intro-core/readme.md)
+  - [Intro](./blocks/block-ai-intro-core)
   - [History](#going-further)
   - [Tools](#tools)
 

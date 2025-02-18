@@ -6,11 +6,11 @@ This week will be mostly about planning and inspirations. We will go together th
 
 | Time    | Desc                                  |
 | ------- | ------------------------------------- |
+| 30 mins | [Class / You](#class)                 |
 | 1 h     | [Intro](#intro)                       |
 | 10 mins | Break                                 |
 | 30 mins | [Tools](#tools)                       |
-| 15 mins | [Preparation work](#preparation-work) |
-| 5 mins  | [Exit ticket](#exit-ticket)           |
+| 10 mins | [Preparation work](#preparation-work) |
 
 ## Planning
 

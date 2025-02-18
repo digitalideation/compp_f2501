@@ -14,7 +14,7 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ## Schedule
 
-### [Week 01](content/week01.md) | [:clapper:](https://drive.switch.ch/index.php/s/4ZQhGBHq9NA9JY3)
+### [Week 01](content/week01.md)
 
 - Students intro :wave:
 - Intro general

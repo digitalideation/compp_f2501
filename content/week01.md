@@ -1,3 +1,8 @@
+---
+layout: inner
+title: 'Week 01'
+---
+
 ## Intro
 
 This week will be mostly about planning and inspirations. We will go together through the schedule, evaluation criteria, talk about the basis of ML and have a look at different examples of ML projects. We'll also have a look at some of the tools we are going to use during the class.

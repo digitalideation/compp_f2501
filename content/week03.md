@@ -21,7 +21,7 @@ This week, we dive into Large Language Models (LLMs). Your task is to explore ho
 
 - **LLM Video:** Watch [this video](https://www.youtube.com/watch?v=7xTGNNLPyMI) to get an in depth explanation of LLMs mechanisms. Watch the first 2h.
 - **Reflection:** In 150 words or more, write a casual summary of what grabbed your attention in the video—what surprised you, or what made you think that this could really change the way we work.
-- **Tool Exploration:** Combine what we learned last week about image generation with new ideas from LLM prompting. Use Mistral (or some other LLMs) to generate creative prompts that can inspire visual designs. Use those prompts / ideas on Replicate to create an image. You can experiment with remixing a classic design idea using these prompts, and jot down your thoughts.
+- **Tool Exploration:** Combine what we learned last week about image generation with new ideas from LLM prompting. Use Mistral (or some other LLMs) to generate creative prompts that can inspire visual designs. Use those prompts / ideas on Replicate to create an image. You can experiment with remixing a classic design idea using these prompts, and take it from there.
 - **Discussion:** Post your reflection and results on Slack, we will discuss this next week.
 
 ## Goal

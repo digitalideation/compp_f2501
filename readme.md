@@ -28,6 +28,10 @@ Once we get a good grasp of the different techniques, we will experiment further
 - First steps with Colab / Jupyter
 - Tools
 
+### [Week 03](content/week03.md)
+
+- Exploring LLMs in Art and Design
+
 ## [Evaluation](./content/criteria.md)
 
 ### Evaluation criteria:

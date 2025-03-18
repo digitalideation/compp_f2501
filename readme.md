@@ -32,6 +32,10 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 - Exploring LLMs in Art and Design
 
+### [Week 04](content/week04.md)
+
+- LLMs practical applications
+
 ## [Evaluation](./content/criteria.md)
 
 ### Evaluation criteria:
@@ -46,9 +50,9 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### Important dates
 
-* Presentation: **Date TBA**
-* Feedback + Discussion: from **Date TBA** 
-* Source Code + Documentation deadline: **Date TBA** (Ilias)
+- Presentation: **Date TBA**
+- Feedback + Discussion: from **Date TBA**
+- Source Code + Documentation deadline: **Date TBA** (Ilias)
 
 ## [Academic integrity](./content/coc.md)
 

@@ -1,56 +1,39 @@
 ---
 layout: inner
-title: 'Week 04'
+title: 'Week 03'
 ---
 
 ## Intro
 
-This week we take one step back and two steps forward!
+This week, we dive into Large Language Models (LLMs). Your task is to explore how LLMs can remix ideas—just like we did with image generation last week—bringing fresh twists to classic design concepts.
 
 ## Schedule
 
-| Time    | Desc                                |
-| ------- | ----------------------------------- |
-| 10 mins | Sharing, inspiration, communication |
-| 15 mins | LLM intro                           |
-| 15 mins | LLM hands-on                        |
-| 15 mins | API(s) hands-on                     |
-| 10 mins | Break                               |
-| ...     | Practice / research                 |
+| Time     | Desc                                        |
+| -------- | ------------------------------------------- |
+| 5 mins   | Touch base                                  |
+| 120 mins | Watch video on LLMs                         |
+| 10 mins  | Write a short, informal reflection          |
+| 20 mins  | Experiment with Mistral and image prompting |
+| 10 mins  | Share your findings on Slack                |
 
 ## Content
 
-- Sharing and inspiration
-- [LLM Intro](https://digitalideation.github.io/compp_f2401/slides/week05.html)
-- LLM Hands-on
-- API Hands-on
+- **LLM Video:** Watch [this video](https://www.youtube.com/watch?v=7xTGNNLPyMI) to get an in depth explanation of LLMs mechanisms. Watch the first 2h.
+- **Reflection:** In 150 words or more, write a casual summary of what grabbed your attention in the video—what surprised you, or what made you think that this could really change the way we work.
+- **Tool Exploration:** Combine what we learned last week about image generation with new ideas from LLM prompting. Use Mistral (or some other LLMs) to generate creative prompts that can inspire visual designs. Use those prompts / ideas on Replicate to create an image. You can experiment with remixing a classic design idea using these prompts, and take it from there.
+- **Discussion:** Post your reflection and results on Slack, we will discuss this next week.
 
 ## Goal
 
 The goal this week is to:
 
-1. Understand LLM at a very high-level
-2. Getting more familiar with some LLM Tools
-3. Understand the possibilities and integrations
+- Understand the basics of LLMs and see how they can be used for creative work and design at large.
+- Reflect on the creative potential of these tools in an informal, personal way.
+- Connect image generation work with creative prompting.
 
-## Preparation work
+## Preparation Work
 
-- Learn more about hf, diffusers, transformers (x2) by [Lewis Tunstall](https://twitter.com/_lewtun)
-  - Hugging Face part 01 :hugs: (NLP, Transformers, HF API)
-    - [Video :clapper:](https://drive.switch.ch/index.php/s/2mFjA6ATGnsv0x8)
-    - [Repo](https://github.com/digitalideation/hf_workshops/tree/main/luzern-university)
-  - Hugging Face part 02 :hugs: (Image generation)
-    - [Video :clapper:](https://drive.switch.ch/index.php/s/45xTOhqqU5Tj5Ft)
-    - [Repo](https://github.com/digitalideation/hf_workshops/tree/main/luzern-university)
-  - [Related discord posts from Lewis](../assets/images/lewtun_discord_posts.png)
-- Go further with LLM tools on the Hub
-- Try to implement your own API integration in the language of your choice
-
-## Going further
-
-- [Simply explained: how does GPT work?](https://confusedbit.dev/posts/how_does_gpt_work/)
-- [Transformers, explained: Understand the model behind GPT, BERT, and T5](https://www.youtube.com/watch?v=SZorAJ4I-sA)
-- [How ChatGPT Works Technically, ChatGPT Architecture](https://www.youtube.com/watch?v=bSvTVREwSNw)
-- [MS Video K. - State of GPT](https://www.youtube.com/watch?v=bZQun8Y4L2A)
-- [A Survey of Techniques for Maximizing LLM Performance](https://www.youtube.com/watch?v=ahnGLM-RC1Y)
-- [[1hr Talk] Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g)
+- Watch the provided [LLM video](https://www.youtube.com/watch?v=7xTGNNLPyMI).
+- Experiment with LLMs for creative prompting—combine it with techniques from our image generation session.
+- Prepare a short, informal written reflection and be ready to discuss your ideas.

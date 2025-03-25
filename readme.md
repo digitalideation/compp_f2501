@@ -30,13 +30,17 @@ Once we get a good grasp of the different techniques, we will experiment further
 
 ### [Week 03](content/week03.md)
 
-- Exploring LLMs in Art and Design
+- Focus on ImageGen
 
 ### [Week 04](content/week04.md)
 
-- LLMs practical applications
+- Exploring LLMs in Art and Design (self study)
 
 ### [Week 05](content/week05.md)
+
+- LLMs practical applications
+
+### [Week 06](content/week06.md)
 
 - Creative Process
 - Inspiration
